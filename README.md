@@ -119,7 +119,7 @@ deactivate
 
 | Paso       | Windows                           | Linux / macOS                     |
 | ---------- | --------------------------------- | --------------------------------- |
-| Crear venv | `py -m venv venv`                 | `python3 -m venv venv`            |
+| Crear venv | `python -m venv venv`             | `python3 -m venv venv`            |
 | Activar    | `.\venv\Scripts\Activate.ps1`     | `source venv/bin/activate`        |
 | Instalar   | `pip install -r requirements.txt` | `pip install -r requirements.txt` |
 | Ejecutar   | `python script/crypto.py`         | `python3 script/crypto.py`        |
