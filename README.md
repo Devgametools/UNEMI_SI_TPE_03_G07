@@ -31,7 +31,7 @@ Abre una terminal **dentro de la carpeta `UNEMI_SI_TPE_03_G07`** antes de seguir
 **Windows (PowerShell o CMD)**
 
 ```powershell
-py -m venv venv
+python -m venv venv
 ```
 
 **Linux / macOS**
